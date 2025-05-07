@@ -1,0 +1,16 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.App-header h1 {
+  color: #333;
+  margin: 0;
+}
